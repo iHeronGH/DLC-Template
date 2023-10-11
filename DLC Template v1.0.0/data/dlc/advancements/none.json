@@ -1,0 +1,22 @@
+{
+	"parent": "dlc:nationality",
+	"criteria": {
+		"no_tribe": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:inverted",
+						"term": {
+							"condition": "minecraft:reference",
+							"name": "dlc:tribes/nationality"
+						}
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "dlc:effects/main"
+	}
+}

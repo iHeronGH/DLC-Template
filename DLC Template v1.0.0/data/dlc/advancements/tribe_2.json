@@ -1,0 +1,19 @@
+{
+	"parent": "dlc:nationality",
+	"criteria": {
+		"is_tribe_2": {
+			"trigger": "minecraft:tick",
+			"conditions": {
+				"player": [
+					{
+						"condition": "minecraft:reference",
+						"name": "dlc:tribes/tribe_2"
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"function": "dlc:effects/main"
+	}
+}
