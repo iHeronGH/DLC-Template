@@ -42,7 +42,7 @@ This DLC depends on [Elytras of Fire Lib](https://github.com/iHeronGH/Elytras-of
 
 Installing \<DLC Template> is relatively simple:
 
-1. Download the datapack using the Releases tab on the right (this will be populated when the datapack is in a releasable state, which it is not as of writing this.)
+1. Download the datapack using the [Releases](https://github.com/iHeronGH/DLC-Template/releases) tab on the right (this will be populated when the datapack is in a releasable state, which it is not as of writing this.)
 2. Open your world folder and place the downloaded folder into the "datapacks" folder. **Make sure you have [Elytras of Fire Lib](https://github.com/iHeronGH/Elytras-of-Fire-Lib) in this same folder, or else this datapack will not work!**
 3. Use **`/reload`** in-game to refresh your world. If you have installed it correctly, you will be met with a successful installation message.
 
