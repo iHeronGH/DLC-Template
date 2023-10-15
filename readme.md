@@ -1,12 +1,38 @@
 # \<DLC Template>
 
+This file contains hidden comments in its raw form. [View this file raw](https://raw.githubusercontent.com/iHeronGH/Elytras-of-Fire/main/readme.md) or download and open it in a text editor to view them.
+
 ## [README.md](#readmemd)
 
 [//]: # (This is where you can describe your datapack. Explain that it depends on the Elytras of Fire library in order to work, along with a small summary on the datapack.)
 
-\<DLC Template> is a Minecraft datapack directly inspired by the world of Wings of Fire!
+\<DLC Template> is a Minecraft datapack!
 
 This DLC depends on [Elytras of Fire Lib](https://github.com/iHeronGH/Elytras-of-Fire-Lib) and requires its [installation](#installation-and-uninstallation) in order to be used correctly.
+
+---
+
+## Table of Contents
+
+- [\<DLC Template\>](#dlc-template)
+  - [README.md](#readmemd)
+  - [Table of Contents](#table-of-contents)
+  - [Installation and Uninstallation](#installation-and-uninstallation)
+  - [Features](#features)
+    - [Tribes](#tribes)
+      - [\<Tribe 1\>](#tribe-1)
+      - [\<Tribe 2\>](#tribe-2)
+      - [\<Tribe 3\>](#tribe-3)
+    - [Passives](#passives)
+      - [\<Passive Ability 1\>](#passive-ability-1)
+      - [\<Passive Ability 2\>](#passive-ability-2)
+      - [\<Passive Ability 3\>](#passive-ability-3)
+    - [Tribe Abilities](#tribe-abilities)
+  - [Planned Features](#planned-features)
+  - [Other Qualities](#other-qualities)
+    - [IMP Compliance](#imp-compliance)
+
+---
 
 ## Installation and Uninstallation
 
@@ -20,7 +46,7 @@ Installing \<DLC Template> is relatively simple:
 2. Open your world folder and place the downloaded folder into the "datapacks" folder. **Make sure you have [Elytras of Fire Lib](https://github.com/iHeronGH/Elytras-of-Fire-Lib) in this same folder, or else this datapack will not work!**
 3. Use **`/reload`** in-game to refresh your world. If you have installed it correctly, you will be met with a successful installation message.
 
-[//]: # (DEVELOPERS!!! This is very important! ALWAYS, ALWAYS, ALWAYS ensure that your DLC uninstalls COMPLETELY AND ENTIRELY. Leaving remnants of your datapack is 1. unprofessional, 2. messy, and 3. confusing for everyone involved. It makes updating your datapack for you and your users extremely hasslesome as it's nigh unpredictable to recognise and clean after an update is pushed, so ALWAYS ENSURE YOUR UNINSTALL FUNCTIONS CORRECTLY!)
+[//]: # (DEVELOPERS!!! This is very important! ALWAYS, ALWAYS, ALWAYS ensure that your DLC uninstalls COMPLETELY AND ENTIRELY. Leaving remnants of your datapack is 1. unprofessional, 2. messy, and 3. confusing for everyone involved. It makes updating your datapack for you and your users extremely hasslesome as it's nigh unpredictable to recognise and clean after an update is pushed, so ALWAYS ENSURE YOUR UNINSTALL METHODS FUNCTIONS CORRECTLY!)
 
 And uninstalling \<DLC Template> is even simpler:
 
@@ -44,15 +70,94 @@ There are currently 3 tribes in \<DLC Template>:
 
 **<summary>Tribes</summary>**
 
-\<Tribe 1>
+#### <Tribe 1>
 
-\<Tribe 2>
+Passive Abilities: [<Passive Ability 1>](#passive-ability-1)<br>
+Primary Ability: [<Primary Ability 1>](#tribe-abilities)<br>
+Secondary Ability: [<Secondary Ability 1>](#tribe-abilities)<br>
+Tertiary Ability: [<Tertiary Ability 1>](#tribe-abilities)
 
-\<Tribe 3>
+Innate Attributes:
+
+- Effect 1
+- Effect 2
+- Effect 3
+
+#### <Tribe 2>
+
+Passive Abilities: [<Passive Ability 2>](#passive-ability-2)<br>
+Primary Ability: [<Primary Ability 2>](#tribe-abilities)<br>
+Secondary Ability: [<Secondary Ability 2>](#tribe-abilities)<br>
+Tertiary Ability: [<Tertiary Ability 2>](#tribe-abilities)
+
+Innate Attributes:
+
+- Effect 1
+- Effect 2
+- Effect 3
+
+#### <Tribe 3>
+
+Passive Abilities: [<Passive Ability 3>](#passive-ability-3)<br>
+Primary Ability: [<Primary Ability 3>](#tribe-abilities)<br>
+Secondary Ability: [<Secondary Ability 3>](#tribe-abilities)<br>
+Tertiary Ability: [<Tertiary Ability 3>](#tribe-abilities)
+
+Innate Attributes:
+
+- Effect 1
+- Effect 2
+- Effect 3
 
 </details>
 
-### Abilities
+---
+
+### Passives
+
+There are currently 3 passive abilities in \<DLC Template>:
+
+<details>
+
+**<summary> Passives </summary>**
+
+[Back to top](#)
+
+#### <Passive Ability 1>
+
+<Passive Ability 1> is a [<Tribe 1>](#tribe-1) passive ability.
+
+| Level | Activation | Effect | Charge Duration | Cooldown |
+| :---: | :--------: | :----: | :-------------: | :------: |
+|   1   |    ---     |  ---   |       ---       |   ---    |
+|   2   |    ---     |  ---   |       ---       |   ---    |
+|   3   |    ---     |  ---   |       ---       |   ---    |
+
+#### <Passive Ability 2>
+
+<Passive Ability 2> is a [<Tribe 2>](#tribe-2) passive ability.
+
+| Level | Activation | Effect | Charge Duration | Cooldown |
+| :---: | :--------: | :----: | :-------------: | :------: |
+|   1   |    ---     |  ---   |       ---       |   ---    |
+|   2   |    ---     |  ---   |       ---       |   ---    |
+|   3   |    ---     |  ---   |       ---       |   ---    |
+
+#### <Passive Ability 3>
+
+<Passive Ability 3> is a [<Tribe 3>](#tribe-3) passive ability.
+
+| Level | Activation | Effect | Charge Duration | Cooldown |
+| :---: | :--------: | :----: | :-------------: | :------: |
+|   1   |    ---     |  ---   |       ---       |   ---    |
+|   2   |    ---     |  ---   |       ---       |   ---    |
+|   3   |    ---     |  ---   |       ---       |   ---    |
+
+</details>
+
+---
+
+### Tribe Abilities
 
 [//]: # (This section is for describing the details of your datapack's abilities. It is recommended to list how many there are along with their effects and other information about them.)
 
@@ -60,47 +165,53 @@ There are currently 9 unique abilities in DLC Template:
 
 <details>
 
-**<summary>Primary Abilities</summary>**
+**<summary> Primary Abilities </summary>**
 
-| Ability | Tribes | Cooldown | Effects |
-| :-----: | :----: | :------: | :-----: |
-| \<Ability Name 1> | \<Tribe 1> | \<Cooldown> | \<Effect 1> (∞) |
-| \<Ability Name 2>  | \<Tribe 2> | \<Cooldown> | \<Effect 2> (∞) |
-| \<Ability Name 3> | \<Tribe 3> | \<Cooldown> | **\<Custom Effect>**<sup>1</sup> **\<Level>:**<br>\<Effect 3> (∞) |
+[Back to top](#)
 
-<sup>1</sup>: Describe what this effect does.
-
-</details>
-
-<details>
-
-**<summary>Secondary Abilities</summary>**
-
-| Ability | Tribes | Cooldown | Effects |
-| :-----: | :----: | :------: | :-----: |
-| \<Ability Name 1> | \<Tribe 1> | \<Cooldown> | \<Effect 1> (∞) |
-| \<Ability Name 2>  | \<Tribe 2> | \<Cooldown> | \<Effect 2> (∞) |
-| \<Ability Name 3> | \<Tribe 3> | \<Cooldown> | **\<Custom Effect>**<sup>1</sup> **\<Level>:**<br>\<Effect 3> (∞)<br>**\<Custom Effect>**<sup>2</sup> **\<Level>:**<br>\<Effect 4> (∞) |
-
-<sup>1</sup>: Describe what this effect does.
-
-<sup>2</sup>: Describe what this effect does.
+|       Ability       |        Tribes         | Cooldown | Activation | Self Effects | Enemy Effects |
+| :-----------------: | :-------------------: | :------: | :--------: | :----------: | :-----------: |
+| <Primary Ability 1> | [<Tribe 1>](#tribe-1) |   ---    |    ---     |     ---      |      ---      |
+| <Primary Ability 2> | [<Tribe 2>](#tribe-2) |   ---    |    ---     |     ---      |      ---      |
+| <Primary Ability 3> | [<Tribe 3>](#tribe-3) |   ---    |    ---     |     ---      |      ---      |
 
 </details>
 
 <details>
 
-**<summary>Tertiary Abilities</summary>**
+**<summary> Secondary Abilities </summary>**
 
-| Ability | Tribes | Cooldown | Effects |
-| :-----: | :----: | :------: | :-----: |
-| \<Ability Name 1> | \<Tribe 1> | \<Cooldown> | \<Effect 1> (∞) |
-| \<Ability Name 2>  | \<Tribe 2> | \<Cooldown> | \<Effect 2> (∞) |
-| \<Ability Name 3> | \<Tribe 3> | \<Cooldown> | **\<Custom Effect>**<sup>3</sup> **\<Level>:**<br>\<Effect 3> (∞) |
+[Back to top](#)
 
-<sup>3</sup>: Describe what this effect does.
+|        Ability        |        Tribes         | Cooldown | Activation | Self Effects | Enemy Effects |
+| :-------------------: | :-------------------: | :------: | :--------: | :----------: | :-----------: |
+| <Secondary Ability 1> | [<Tribe 1>](#tribe-1) |   ---    |    ---     |     ---      |      ---      |
+| <Secondary Ability 2> | [<Tribe 2>](#tribe-2) |   ---    |    ---     |     ---      |      ---      |
+| <Secondary Ability 3> | [<Tribe 3>](#tribe-3) |   ---    |    ---     |     ---      |      ---      |
 
 </details>
+
+<details>
+
+**<summary> Tertiary Abilities </summary>**
+
+[Back to top](#)
+
+|       Ability        |        Tribes         | Cooldown | Activation | Self Effects | Enemy Effects |
+| :------------------: | :-------------------: | :------: | :--------: | :----------: | :-----------: |
+| <Tertiary Ability 1> | [<Tribe 1>](#tribe-1) |   ---    |    ---     |     ---      |      ---      |
+| <Tertiary Ability 2> | [<Tribe 2>](#tribe-2) |   ---    |    ---     |     ---      |      ---      |
+| <Tertiary Ability 3> | [<Tribe 3>](#tribe-3) |   ---    |    ---     |     ---      |      ---      |
+
+</details>
+
+---
+
+## Planned Features
+
+[Back to top](#)
+
+---
 
 ## Other Qualities
 
@@ -112,7 +223,7 @@ The following features of \<DLC Template> are listed to prove [IMP compliance](h
 
 > Core Standards: [Leave vanilla alone](https://github.com/Arcensoth/imp-spec/blob/master/docs/imp_core.md#1-leave-vanilla-alone)
 
-List ALL changes you've made to the **`minecraft`** namespace. It is recommended to limit changes or edits to this namespace to promote compatibility.
+List ALL overwriting changes you've made to the **`minecraft`** namespace. It is recommended to limit changes or edits to this namespace to promote compatibility.
 
 > Core Standards: [Namespace everything](https://github.com/Arcensoth/imp-spec/blob/master/docs/imp_core.md#2-namespace-everything)
 
