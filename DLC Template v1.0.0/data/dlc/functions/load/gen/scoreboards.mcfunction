@@ -18,7 +18,7 @@
 
 	# Variables
 		## Global Vars
-	#define score_holder _eoflib.dlc.template The load status of this datapack.
+#define score_holder _eoflib.dlc.template The load status of this datapack.
 execute unless score _eoflib.dlc.template eoflib.dlcs = _eoflib.dlc.template eoflib.dlcs run scoreboard players set _eoflib.dlc.template eoflib.dlcs 0
 
 #endregion

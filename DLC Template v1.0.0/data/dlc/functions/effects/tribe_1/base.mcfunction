@@ -3,10 +3,10 @@
 # Grants base tribe_1 effects.
 
 #region
-	# Base Effects
+	# Base effects
 effect give @a[predicate=dlc:tribes/tribe_1, tag=eoflib.atts] speed 1 0 true
 
-	# Check for passive_1 Effects
+	# Check for Passive 2 effects
 execute if entity @a[predicate=dlc:tribes/tribe_1, predicate=dlc:passives/passive_1/1, tag=eoflib.atts] run function dlc:effects/tribe_1/passive_1/1
 execute if entity @a[predicate=dlc:tribes/tribe_1, predicate=dlc:passives/passive_1/2, tag=eoflib.atts] run function dlc:effects/tribe_1/passive_1/2
 
