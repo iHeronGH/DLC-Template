@@ -1,19 +1,12 @@
 {
-	"condition": "minecraft:any_of",
-	"terms": [
-		{
-			"condition": "minecraft:entity_properties",
-			"entity": "this",
-			"predicate": {
-				"team": "Team_1"
-			}
-		},
-		{
-			"condition": "minecraft:entity_properties",
-			"entity": "this",
-			"predicate": {
-				"nbt": "{Tags:[\"Tag_1\"]}"
-			}
-		}
-	]
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "team": "Team_1"
+            }
+        }
+    ]
 }

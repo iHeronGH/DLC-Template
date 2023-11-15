@@ -3,10 +3,10 @@
 # Generates DLC Template teams.
 
 #region
-	# Create tribe teams
+    # Create tribe teams
 # team add 
 
-	# Team modifiers
+    # Team modifiers
 # team modify
 
 #endregion

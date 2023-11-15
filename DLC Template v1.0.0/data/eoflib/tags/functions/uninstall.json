@@ -1,8 +1,8 @@
 {
-	"replace": false,
-	"values": [
-		"dlc:load/del/scoreboards",
-		"dlc:load/del/storage",
-		"dlc:load/del/teams"
-	]
+    "replace": false,
+    "values": [
+        "dlc:load/del/scoreboards",
+        "dlc:load/del/storage",
+        "dlc:load/del/teams"
+    ]
 }

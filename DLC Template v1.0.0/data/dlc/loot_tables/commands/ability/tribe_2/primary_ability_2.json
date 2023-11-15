@@ -1,19 +1,19 @@
 {
-	"pools": [
-		{
-			"rolls": 1,
-			"entries": [
-				{
-					"type": "minecraft:item",
-					"name": "minecraft:knowledge_book",
-					"functions": [
-						{
-							"function": "minecraft:reference",
-							"name": "dlc:ability/tribe_2/primary_ability_2"
-						}
-					]
-				}
-			]
-		}
-	]
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:knowledge_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:reference",
+                            "name": "dlc:ability/tribe_2/primary_ability_2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

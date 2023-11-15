@@ -3,7 +3,7 @@
 # Deletes DLC Template teams.
 
 #region
-	# Remove teams
+    # Remove teams
 # team remove 
 
 #endregion

@@ -3,14 +3,14 @@
 # Removes essential scoreboards from DLC Template.
 
 #region
-	# Scoreboards
-		## Global Objectives
+    # Scoreboards
+        ## Global Objectives
 # scoreboard objectives remove
 
-		## Trigger Objectives
+        ## Trigger Objectives
 # scoreboard objectives remove
 
-		## Miscellaneous Objectives
+        ## Miscellaneous Objectives
 # scoreboard objectives remove
 
 #endregion

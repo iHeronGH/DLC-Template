@@ -1,19 +1,19 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"description": [
-			{
-				"text": "Version: ",
-				"color": "gray"
-			},
-			{
-				"text": "X.X.X",
-				"color": "red"
-			},
-			"\n\n",
-			{
-				"text": "A DLC datapack for Elytras of Fire!\n\nDescribe some of the additions and\nfeatures of your datapack here."
-			}
-		]
-	}
+    "pack": {
+        "pack_format": 15,
+        "description": [
+            {
+                "text": "Version: ",
+                "color": "gray"
+            },
+            {
+                "text": "X.X.X",
+                "color": "red"
+            },
+            "\n\n",
+            {
+                "text": "A DLC datapack for Elytras of Fire!\n\nDescribe some of the additions and\nfeatures of your datapack here."
+            }
+        ]
+    }
 }
