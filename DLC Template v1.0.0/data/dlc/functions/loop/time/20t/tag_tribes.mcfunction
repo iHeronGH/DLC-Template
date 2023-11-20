@@ -1,0 +1,16 @@
+#> dlc:loop/time/20t/tag_tribes
+#
+# Resolve <nationality> tribe tags for all players.
+
+#region
+	# Remove tags
+execute if entity @a[predicate=!dlc:tribes/tribe_1] run tag @a[predicate=!dlc:tribes/tribe_1] remove tribe_1
+execute if entity @a[predicate=!dlc:tribes/tribe_2] run tag @a[predicate=!dlc:tribes/tribe_2] remove tribe_2
+execute if entity @a[predicate=!dlc:tribes/tribe_3] run tag @a[predicate=!dlc:tribes/tribe_3] remove tribe_3
+
+	# Apply tags
+execute if entity @a[predicate=dlc:tribes/tribe_1] run tag @a[predicate=dlc:tribes/tribe_1] add tribe_1
+execute if entity @a[predicate=dlc:tribes/tribe_2] run tag @a[predicate=dlc:tribes/tribe_2] add tribe_2
+execute if entity @a[predicate=dlc:tribes/tribe_3] run tag @a[predicate=dlc:tribes/tribe_3] add tribe_3
+
+#endregion
