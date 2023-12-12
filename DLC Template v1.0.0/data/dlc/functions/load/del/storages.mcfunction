@@ -1,4 +1,4 @@
-#> dlc:load/del/storage
+#> dlc:load/del/storages
 #
 # Remove abstract DLC Template storage containers.
 
