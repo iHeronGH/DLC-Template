@@ -1,6 +1,6 @@
 # \<DLC Template>
 
-This file contains hidden comments in its raw form. [View this file raw](https://raw.githubusercontent.com/iHeronGH/Elytras-of-Fire/main/readme.md) or download and open it in a text editor to view them.
+This file contains hidden comments in its raw form. [View this file raw](https://raw.githubusercontent.com/iHeronGH/DLC-Template/main/readme.md) or download and open it in a text editor to view them.
 
 ## [README.md](#readmemd)
 
