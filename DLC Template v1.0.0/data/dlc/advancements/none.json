@@ -17,6 +17,7 @@
         }
     },
     "rewards": {
-        "function": "dlc:effects/main"
+        "function": "dlc:passives/main"
     }
 }
+

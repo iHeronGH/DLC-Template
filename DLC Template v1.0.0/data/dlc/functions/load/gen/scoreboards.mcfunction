@@ -16,9 +16,5 @@
 # #define objective <objective> <description>
 # scoreboard objectives add 
 
-    # Variables
-        ## Global Vars
-#define score_holder #eoflib.dlc.template The load status of this datapack.
-execute unless score #eoflib.dlc.template eoflib.dlcs = #eoflib.dlc.template eoflib.dlcs run scoreboard players set #eoflib.dlc.template eoflib.dlcs 0
-
-#endregion
+    # Variablesers
+     ## Global Varsar#define score_holder #eoflib.dlc.template The load status of this datapack.ckexecute unless score #eoflib.dlc.template eoflib.dlcs = #eoflib.dlc.template eoflib.dlcs run scoreboard players set #eoflib.dlc.template eoflib.dlcs 0s 0#endregionion

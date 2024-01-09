@@ -1,4 +1,4 @@
-#> dlc:effects/tribe_3/passive_3/1
+#> dlc:passives/tribe_3/passive_3/1
 #
 # Grant effects based on the tribe_3 passive ability passive_3.
 

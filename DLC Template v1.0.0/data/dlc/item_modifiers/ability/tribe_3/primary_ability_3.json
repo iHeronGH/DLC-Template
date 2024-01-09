@@ -13,7 +13,7 @@
             },
             {
                 "source": "dlc[].Abilities[].tribe_3[].primary[].eof_data",
-                "target": "{}.eof_data",
+                "target": "eof_data",
                 "op": "replace"
             }
         ]
