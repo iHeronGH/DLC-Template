@@ -3,6 +3,8 @@
 # Uninstall DLC Template.
 
 #region
+    # Debug
+tellraw @a[tag=eoflib.debug] [{"text": "[", "color": "gray"}, {"text": "Debug", "color": "gold"}, {"text": "] - ", "color": "gray"}, {"text": "dlc:uninstall.mcf", "color": "gold", "hoverEvent": {"action": "show_text", "value": {"text": "data/dlc/functions/uninstall.mcfunction", "color": "aqua"}}}]
 
     # Disable datapack
 datapack disable "file/DLC Template v1.0.0"

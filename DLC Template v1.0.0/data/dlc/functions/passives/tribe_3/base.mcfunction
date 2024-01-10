@@ -3,6 +3,9 @@
 # Grants base tribe_3 effects.
 
 #region
+    # Debug
+tellraw @a[tag=eoflib.debug] [{"text": "[", "color": "gray"}, {"text": "Debug", "color": "gold"}, {"text": "] - ", "color": "gray"}, {"text": "dlc:base.mcf", "color": "gold", "hoverEvent": {"action": "show_text", "value": {"text": "data/dlc/functions/passives/tribe_3/base.mcfunction", "color": "aqua"}}}]
+
     # Innate effects
 effect give @a[tag=eoflib.atts, predicate=dlc:tribes/tribe_3] speed 1 1 true
 
